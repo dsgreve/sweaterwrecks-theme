@@ -6,3 +6,5 @@ Author: Dale Greve
 Author URI: http://dalegreve.com 
 Template: storefront */
 
+/* BEM Blocks */
+@import "modules/home-hero";
